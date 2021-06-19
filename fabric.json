@@ -18,5 +18,8 @@
     "coin.proxy": "coin.proxy.appsettings.json",
     "coin.web": "coin.web.appsettings.json",
     "coin.agent": "coin.agent.appsettings.json"
+  },
+  
+  "Packages":{
   }
 }
