@@ -8,13 +8,15 @@
       "MainPublicIP": "23.83.225.248",
       "Services": {
         "coin.proxy": ["http://127.0.0.1:5006"],
-        "coin.web": ["http://127.0.0.1:5005"]
+        "coin.web": ["http://127.0.0.1:5005"],
+        "coin.agent": ["http://127.0.0.1:5007"]
       }
     }
   ],
 
   "AppSettings": {
-    "coin.proxy": "",
-    "coin.web": "coin.web.appsettings.json"
+    "coin.proxy": "coin.proxy.appsettings.json",
+    "coin.web": "coin.web.appsettings.json",
+    "coin.agent": "coin.agent.appsettings.json"
   }
 }
