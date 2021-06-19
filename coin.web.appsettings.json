@@ -7,12 +7,6 @@
     }
   },
   "AllowedHosts": "*",
-  "ConnectionStrings": {
-    //"QuantitativeDbConnection": "Server=192.168.0.106;Database=quan;Uid=guojie;Pwd=123456",
-    //"ReadonlyQuantitativeDbConnection": "Server=192.168.0.106;Database=quan;Uid=guojie;Pwd=123456"
-    "QuantitativeDbConnection": "Server=localdddhost;Database=quan;Uid=root;Pwd=@@Asdf12345",
-    "ReadonlyQuantitativeDbConnection": "Server=localhost;Database=quan;Uid=root;Pwd=@@Asdf12345"
-  },
   "JwtConfig": {
     "Audience": "http://localhost:4200",
     "Issuer": "http://localhost:59921",
