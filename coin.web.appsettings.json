@@ -10,7 +10,7 @@
   "ConnectionStrings": {
     //"QuantitativeDbConnection": "Server=192.168.0.106;Database=quan;Uid=guojie;Pwd=123456",
     //"ReadonlyQuantitativeDbConnection": "Server=192.168.0.106;Database=quan;Uid=guojie;Pwd=123456"
-    "QuantitativeDbConnection": "Server=localhost;Database=quan;Uid=root;Pwd=@@Asdf12345",
+    "QuantitativeDbConnection": "Server=localdddhost;Database=quan;Uid=root;Pwd=@@Asdf12345",
     "ReadonlyQuantitativeDbConnection": "Server=localhost;Database=quan;Uid=root;Pwd=@@Asdf12345"
   },
   "JwtConfig": {
